@@ -1,4 +1,4 @@
-SpringBootTests
+# SpringBootTests
 
 Detta är en repository för inlämningsuppgiften för kursen "Mjukvarutestning" som är en del av yrkeshögskolautbildningen "Agil javautvecklare".
 
